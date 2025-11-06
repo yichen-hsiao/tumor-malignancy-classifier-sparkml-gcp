@@ -1,5 +1,12 @@
 # Predicting Tumor Malignancy with Spark ML
 
+## Contents
+- [Objective](#objective)
+- [Method](#method)
+- [Development Steps](#development-steps)
+- [Main Finding](#main-finding)
+
+
 ## Objective
 
 This portfolio project demonstrates the development of a scalable machine learning pipeline for predicting tumor malignancy using a cancer dataset in a big data ecosystem powered by Apache Spark on Google Cloud Platform (GCP).
